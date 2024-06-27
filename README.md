@@ -1,5 +1,7 @@
 Understanding machine learning models can be challenging for non-technical people and those without domain knowledge, especially in critical fields like medicine. I've been exploring how we can combine visual and natural language explanations to make models more transparent and accessible.
 
+![xai](https://github.com/supriyamk2/Explainable_AI_healthcare/assets/62048223/c9568e15-3c4c-43fb-99e9-5efe347a421c)
+
 🔍 Highlights mentioned in the blog:
 
 ✅ Explainable AI (XAI): Methods and techniques that make ML models more understandable to humans.
